@@ -9,7 +9,7 @@ konfigurasi di file /inc/config.php
 contoh login admin,
 user/pass : admin
 
-## ScreenShot
+## Preview :
 ini adalah hasil dari booking pasien :
 
 
